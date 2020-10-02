@@ -12,7 +12,7 @@
 const users = [];
 
 const siteConfig = {
-    title: 'Dan Ross Howard Jr', // Title for your website.
+    title: 'Dan Ross Howard Jr.', // Title for your website.
     tagline: 'Awkward conversations are my super power.',
     profilePhoto: 'img/profile.png',
     url: 'https://danrosshowardjr.github.io', // Your website URL
